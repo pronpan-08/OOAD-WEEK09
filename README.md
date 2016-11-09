@@ -52,7 +52,7 @@ Home *-- floor
 
 รูปที่4
 
-@startuml Tree *-- leaves 
+@startuml  
 
 TV *--screen 
 
@@ -66,7 +66,7 @@ TV *-- button
 
 รูปที่5
 
-@startuml Tree *-- leaves 
+@startuml 
 
 Fan *--fanblades 
 
